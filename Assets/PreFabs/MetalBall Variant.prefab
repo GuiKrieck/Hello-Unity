@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4303137993443344103
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2545285048705672134, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0323b83a61204bb449f56719f3e32829, type: 2}
+    - target: {fileID: 5287313491518624485, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 4e7499197a96dcf4690f63e5bc52e2df,
+        type: 2}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2051833
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2051833
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2051833
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.339
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.352
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994912708834975695, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388247122115067112, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_Mass
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6388247122115067112, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_UseGravity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7174631393127970941, guid: 02b04bd94d9854a46834d2b4039fee29,
+        type: 3}
+      propertyPath: m_Name
+      value: MetalBall Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 02b04bd94d9854a46834d2b4039fee29, type: 3}
